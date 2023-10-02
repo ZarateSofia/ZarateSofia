@@ -7,7 +7,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mispro
 ## Información personal
 * Nombre: [Sofia Zarate]
 * Ocupación: [Estudiante]
-* Lugar de residencia: [Tu lugar de residencia]
+* Lugar de residencia: [Guayaquil]
 * Sitio web: [Tu sitio web]
 ## Proyectos
 * [Lista de tus proyectos]

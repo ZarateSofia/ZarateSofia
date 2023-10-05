@@ -10,7 +10,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * Lugar de residencia: Guayaquil
 * Sitio web: [Tu sitio web]
 ## Proyectos
-* [App-de-pedidos-de-comida]
+* [App de pedidos de comida](https://github.com/ZarateSofia/App-de-pedidos-de-comida)
 * [Lista de tus proyectos]h
 * [Lista de tus proyectos]
 ## Intereses

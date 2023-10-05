@@ -1,4 +1,4 @@
-# Mi sitio personal
+# <center>Mi sitio personal</center>
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
 ## Contenido
 * [Información personal](#información-personal)
@@ -6,12 +6,11 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * [Intereses](#intereses)
 ## Información personal
 * Nombre: Sofia Zarate
-* Ocupación: Estudiante de Inegniería en Computación
+* Ocupación: Estudiante de Ingeniería en Computación
 * Lugar de residencia: Guayaquil
-* Sitio web: [Tu sitio web]
+* Email: szarate@spol.edu.ec
 ## Proyectos
 * [App de pedidos de comida](https://github.com/ZarateSofia/App-de-pedidos-de-comida)
-* [Lista de tus proyectos]h
-* [Lista de tus proyectos]
 ## Intereses
-* [Lista de tus intereses]
+* Desarrollo de aplicaciones
+* Diseño de experiencia de usuario

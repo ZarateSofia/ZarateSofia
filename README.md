@@ -1,15 +1,17 @@
 # Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, misproyectos y mis intereses.
+Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Sofia Zarate]
-* Ocupación: [Estudiante]
-* Lugar de residencia: [Guayaquil]
+* Nombre: Sofia Zarate
+* Ocupación: Estudiante de Inegniería en Computación
+* Lugar de residencia: Guayaquil
 * Sitio web: [Tu sitio web]
 ## Proyectos
+* [App-de-pedidos-de-comida]
+* [Lista de tus proyectos]
 * [Lista de tus proyectos]
 ## Intereses
 * [Lista de tus intereses]

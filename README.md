@@ -1,4 +1,4 @@
-# <center>Mi sitio personal</center>
+<center><h1>Mi sitio personal</h1></center>
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
 ## Contenido
 * [Información personal](#información-personal)

@@ -15,6 +15,9 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 
 ## Proyectos
 * [App de pedidos de comida](https://github.com/ZarateSofia/App-de-pedidos-de-comida)
+* [Curriculum Vitae](https://zaratesofia.github.io/Curriculum/)
+* [Landing Page](https://zaratesofia.github.io/landing/)
+* [Dashboard del clima](https://zaratesofia.github.io/dashboard/)
 
 ## Intereses
 * Desarrollo de aplicaciones
